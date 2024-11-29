@@ -1,16 +1,18 @@
-## Optimization for Machine Learning and Deep Learning
+# Optimization for Machine Learning and Deep Learning
 
-#### Understanding Bayesian Optimization
-[Bayesian Optimization](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_01_understand-bayesian-optimization.ipynb)
+## Bayesian Optimization for ML hyperparameter tuning
+- [Bayesian Optimization for ML](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_01_bayesian-optimization-for-machine-learning.ipynb)
+- https://scikit-optimize.github.io
 
-#### Bayesian Optimization for ML hyperparameter tuning
- https://scikit-optimize.github.io
-
-#### Hyperparameter Tuning for Deep Learning Models
-https://keras.io/guides/keras_tuner/
+## Hyperparameter Tuning for Deep Learning Models
+- [Keras Tuner for DL](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_02-keras-tuner-for-deep-learning.ipynb)
+- https://keras.io/guides/keras_tuner/
 
 The Keras Tuner currently supports four tuners:
 - RandomSearch
 - Hyperband
 - Bayesian Optimization
 - Sklearn
+
+## Understanding Bayesian Optimization
+- [Bayesian Optimization](https://github.com/FIIT-IAU/IAU-course/blob/main/exercises/week-12/IAU_homework_Understanding-Bayesian-optimization.ipynb)
